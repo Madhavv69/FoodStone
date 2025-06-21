@@ -1,0 +1,86 @@
+/* Cream + Black Theme */
+
+body {
+  background-color: #FFFDF2;
+  color: #000000;
+}
+
+.custom-navbar {
+  background-color: #FFFDF2 !important;
+  border-bottom: 2px solid #000000;
+}
+
+.navbar-brand, .nav-link {
+  color: #000000 !important;
+  font-weight: 500;
+}
+
+.navbar-brand:hover, .nav-link:hover {
+  color: #555555 !important;
+}
+
+.dropdown-menu {
+  background-color: #FFFDF2;
+  border: 1px solid #000000;
+}
+
+.dropdown-item {
+  color: #000000 !important;
+  text-align: center;
+}
+
+.dropdown-item:hover {
+  background-color: #000000;
+  color: #FFFDF2 !important;
+}
+
+.text-color {
+  color: #000000 !important;
+}
+
+.text-color-second {
+  color: #555555 !important;
+}
+
+.custom-bg {
+  background-color: #FFFDF2 !important;
+}
+
+.card {
+  transition: transform 0.2s ease-in-out;
+}
+.card:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+.add-to-cart-btn {
+  background-color: #000000;
+  color: #FFFDF2;
+  border-radius: 8px;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.add-to-cart-btn:hover {
+  background-color: #FFFDF2;
+  color: #000000;
+  border: 1px solid #000000;
+}
+
+
+.submit-btn {
+  background-color: #000000;
+  color: #FFFDF2;
+  font-weight: bold;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  padding: 8px 20px;
+  border: none;
+}
+
+.submit-btn:hover {
+  background-color: #FFFDF2;
+  color: #000000;
+  border: 1px solid #000000;
+}

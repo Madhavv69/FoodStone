@@ -1,0 +1,19 @@
+# Java / Spring Boot
+target/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+.mvn/
+.idea/
+*.db
+
+# React
+node_modules/
+build/
+
+# OS and IDE files
+.DS_Store
+.env
+*.swp
