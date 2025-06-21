@@ -32,13 +32,6 @@
 
 ---
 
-## 🗂️ Project Structure
-
-FoodStone/
-├── frontend/ # React app
-└── backend/ # Spring Boot app
-
-
 ---
 
 ## ⚙️ Getting Started
